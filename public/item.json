@@ -1,0 +1,129 @@
+[
+    {
+      "name": "Elegant Sofa",
+      "details": "A comfortable and stylish sofa for your living room.",
+      "image": "https://images.pexels.com/photos/6492402/pexels-photo-6492402.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Furniture",
+      "price": 799.99
+    },
+    {
+      "name": "Crystal Chandelier",
+      "details": "A dazzling crystal chandelier to illuminate your dining area.",
+      "image": "https://images.pexels.com/photos/7535071/pexels-photo-7535071.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Lighting",
+      "price": 299.99
+    },
+    {
+      "name": "Abstract Canvas Art",
+      "details": "A vibrant abstract canvas art piece to adorn your walls.",
+      "image": "https://images.pexels.com/photos/3101527/pexels-photo-3101527.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Wall Decor",
+      "price": 149.99
+    },
+    {
+      "name": "Soft Velvet Cushions",
+      "details": "Plush and comfortable velvet cushions for your seating.",
+      "image": "https://images.pexels.com/photos/6207825/pexels-photo-6207825.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Popular",
+      "price": 39.99
+    },
+    {
+      "name": "Modern Coffee Table",
+      "details": "A sleek and modern coffee table for your living room.",
+      "image": "https://images.pexels.com/photos/6186826/pexels-photo-6186826.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Furniture",
+      "price": 249.99
+    },
+    {
+      "name": "Luxurious Area Rug",
+      "details": "A luxurious area rug to add warmth and style to any room.",
+      "image": "https://images.pexels.com/photos/3229076/pexels-photo-3229076.png?auto=compress&cs=tinysrgb&w=600",
+      "category": "Textiles",
+      "price": 199.99
+    },
+    {
+      "name": "Wooden Storage Cabinet",
+      "details": "A versatile wooden storage cabinet for your home.",
+      "image": "https://images.pexels.com/photos/6934240/pexels-photo-6934240.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Offered",
+      "price": 149.99
+    },
+    {
+      "name": "Designer Bedding Set",
+      "details": "High-quality designer bedding set for a comfortable night's sleep.",
+      "image": "https://images.pexels.com/photos/6394617/pexels-photo-6394617.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Textiles",
+      "price": 129.99
+    },
+    {
+      "name": "Antique Wall Clock",
+      "details": "An elegant antique wall clock to add a vintage touch to your room.",
+      "image": "https://images.pexels.com/photos/5772364/pexels-photo-5772364.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Popular",
+      "price": 79.99
+    },
+    {
+      "name": "L-shaped Desk",
+      "details": "A spacious L-shaped desk for your home office setup.",
+      "image": "https://images.pexels.com/photos/6353766/pexels-photo-6353766.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Furniture",
+      "price": 349.99
+    },
+    {
+      "name": "Bookshelf",
+      "details": "A stylish bookshelf loved by many for organizing your books and decor.",
+      "image": "https://images.pexels.com/photos/2883049/pexels-photo-2883049.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Popular",
+      "price": 179.99
+    },
+    {
+      "name": "Bookshelf",
+      "details": "A stylish bookshelf loved by many for organizing your books and decor.",
+      "image": "https://images.pexels.com/photos/2082087/pexels-photo-2082087.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Furniture",
+      "price": 179.99
+    },
+    {
+      "name": "Cozy Corner",
+      "details": "A stylish bookshelf loved by many for organizing your books and decor.",
+      "image": "https://images.pexels.com/photos/5998064/pexels-photo-5998064.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Lighting",
+      "price": 179.99
+    },
+    {
+      "name": "Bookshelf",
+      "details": "A stylish bookshelf loved by many for organizing your books and decor.",
+      "image": "https://images.pexels.com/photos/2883049/pexels-photo-2883049.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Furniture",
+      "price": 179.99
+    },
+    {
+      "name": "Bookshelf",
+      "details": "A stylish bookshelf loved by many for organizing your books and decor.",
+      "image": "https://images.pexels.com/photos/821357/pexels-photo-821357.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Popular",
+      "price": 179.99
+    },
+    {
+      "name": "Zen Den",
+      "details": "A stylish Zen Den loved by many for organizing your books and decor.",
+      "image": "https://images.pexels.com/photos/821357/pexels-photo-821357.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Offered",
+      "price": 129.99
+    },
+    {
+      "name": "Beachside Haven",
+      "details": "A stylish Beachside Haven loved by many for organizing your books and decor.",
+      "image": "https://images.pexels.com/photos/1668860/pexels-photo-1668860.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Offered",
+      "price": 149.99
+    },
+    {
+      "name": "Urban Oasis",
+      "details": "A stylish Urban Oasis loved by many for organizing your books and decor.",
+      "image": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Offered",
+      "price": 159.99
+    }
+  ]
+  
